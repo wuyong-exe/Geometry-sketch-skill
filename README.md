@@ -13,8 +13,8 @@
        ④△CDP为等腰三角形时，AP的值为2根号2或4根号2－4．其中结论正确的是."
 输出: 一张默认位置 PNG + 一个可拖拽动点的交互 HTML
 无需多余提示词，输入完整的题干即可出图
-<img width="8192" height="5924" alt="1" src="https://github.com/user-attachments/assets/21aee864-be90-443c-a1d3-b9e27e487f03" />
 ```
+<img width="8192" height="5924" alt="1" src="https://github.com/user-attachments/assets/6c90bc57-97ad-4329-8400-165eaf2822af" />
 
 - 无需任何人工坐标计算——解析约束 → 判定模式 → 计算坐标（含动点参数化、关联点推导）→ 约束验证 → 绘图
 - 对图不满意可直接文字反馈（"不需要连接OP"、"角C标直角标记"、"加一条角平分线"、"AB使用虚线"），迅速响应修改
