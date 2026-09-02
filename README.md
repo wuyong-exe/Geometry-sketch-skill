@@ -1,4 +1,4 @@
-# Geometry Sketch — 中学数学辅助画图skill
+# Geometry Sketch — 中学数学绘图skill
 
 > 根据初中数学几何题的**纯文字描述**，自动计算坐标并绘制几何图形，输出 **可交互 HTML + PNG**。基于通用 Agent Skill 体系 ，适用于教师出题配图、学生习题作业可视化、试题解析配图等场景。
 
