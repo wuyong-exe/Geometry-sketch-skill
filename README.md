@@ -98,8 +98,7 @@ geometry-sketch/
 
 ### 详细功能请查看使用指南
 
-
-## ⚙ 环境依赖
+##  环境依赖
 
 执行skill时会自行检查环境numpy、matplotlib。未安装时agent会自行在虚拟环境中安装，无需手动安装
 
@@ -118,4 +117,3 @@ geometry-sketch/
 
 本项目基于 [MIT License](LICENSE) 开源（Copyright © 2026 wuyong-exe）——允许商用、修改、分发，需保留版权声明与许可文本；完整许可见 [LICENSE](LICENSE) 文件。
 
-```
